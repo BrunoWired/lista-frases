@@ -1,0 +1,48 @@
+<resources>
+
+    <string name="txt_error_not_found">NADA ENCOTRADO</string>
+    <string name="txt_btn_save">Salvar frase</string>
+    <string name="txt_btn_use">Usar frase</string>
+    <string name="txt_btn_copy">Copiar frase</string>
+    <string name="txt_btn_image">Gerar imagem</string>
+    <string name="txt_btn_share">Compartilhar</string>
+    <string name="txt_btn_background">Fundo</string>
+    <string name="txt_btn_size">Tamanho</string>
+    <string name="txt_btn_font">Fonte</string>
+    <string name="title_edit">Editar frase</string>
+    <string name="title_image">Editar imagem</string>
+    <string name="title_day">Frase do dia</string>
+    <string name="title_config">Notificações</string>
+    <string name="txt_copied">Copiado</string>
+    <string name="txt_share">Compartilhar</string>
+    <string name="txt_ad">Ad</string>
+    <string name="txt_notification">Confira a frase escolhida para hoje</string>
+    <string name="txt_menu_notification">Notificações</string>
+    <string name="txt_menu_contact">Entrar em contato</string>
+    <string name="txt_menu_save">Salvar</string>
+    <string name="pref_key_notification">pref_notification</string>
+    <string name="pref_key_notification_time">pref_notification_time</string>
+    <string name="pref_title_notification">Frase do dia</string>
+    <string name="pref_title_notification_time">Horário</string>
+    <string name="pref_summary_notification_off">Não enviar notificação diária</string>
+    <string name="pref_summary_notification_on">Enviar notificação diária</string>
+
+    <string-array name="pref_list_titles">
+        <item>06:00</item>
+        <item>09:00</item>
+        <item>12:00</item>
+        <item>15:00</item>
+        <item>18:00</item>
+        <item>21:00</item>
+    </string-array>
+
+    <string-array name="pref_list_values">
+        <item>6</item>
+        <item>9</item>
+        <item>12</item>
+        <item>15</item>
+        <item>18</item>
+        <item>21</item>
+    </string-array>
+
+</resources>

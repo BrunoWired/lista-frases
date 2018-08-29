@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/black</color>
+    <color name="colorPrimaryDark">@android:color/black</color>
+    <color name="colorAccent">@android:color/black</color>
+
+    <color name="colorEdit">#656565</color>
+    <color name="colorAd">#FFCC66</color>
+
+    <color name="color1">#99D5C9</color>
+    <color name="color2">#BEDBA1</color>
+    <color name="color3">#84A59D</color>
+    <color name="color4">#1282A2</color>
+    <color name="color5">#284B63</color>
+    <color name="color6">#635380</color>
+    <color name="color7">#F6BD60</color>
+    <color name="color8">#ED6A5A</color>
+    <color name="color9">#AA4465</color>
+</resources>
